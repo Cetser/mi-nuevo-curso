@@ -1,2 +1,2 @@
 # mi-nuevo-curso
-este repositor incuye mi avance en el curso de Launch X
+este repositor incluye mi avance en el curso de Launch X
